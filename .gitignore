@@ -1,0 +1,5 @@
+qualys_creds.txt
+*.csv
+*.xlsx
+__pycache__/
+*.pyc
